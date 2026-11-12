@@ -30,7 +30,7 @@ ChatGPT などにコードを書いてもらうときは、会話の最初にこ
 ## 使っているもの
 - Vite + React 19。JavaScript で書く（TypeScript は使わない）
 - パッケージの管理は npm
-- 画面の切り替えは React Router v7。`react-router` から import する（`react-router-dom` は使わない）。`<BrowserRouter>` と `<Routes>` / `<Route>` で書く
+- 画面の切り替えは React Router v8（書き方は v7 と同じ）。`react-router` から import する（`react-router-dom` は使わない）。`<BrowserRouter>` と `<Routes>` / `<Route>` で書く
 - データは Firebase v13 の Firestore。`firebase/firestore` から関数を import して書く（`firebase.firestore()` のような古い書き方はしない）
 - ログインは Firebase Authentication の Google ログインだけ
 - 見た目は素の CSS。Tailwind や UI ライブラリは使わない
