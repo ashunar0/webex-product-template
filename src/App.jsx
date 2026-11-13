@@ -18,7 +18,7 @@ function App() {
   }, []);
 
   if (loading) {
-    return <p>読み込み中...</p>;
+    return <p>読み込み中…</p>;
   }
 
   if (user === null) {
