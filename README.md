@@ -27,4 +27,4 @@ ChatGPT などにコードを書いてもらうときは、会話の最初に次
 1. レシピのサイトのトップにある「コピー」で取ったもの（前提の文と書き方の見本）
 2. 自分の担当シート（`docs/tasks/` の中）
 
-レシピのサイト：（URL はあとで書く）
+レシピのサイト：https://webex-product-recipes.asahi-gaia1530.workers.dev
